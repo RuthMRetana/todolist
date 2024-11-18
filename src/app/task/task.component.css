@@ -1,0 +1,28 @@
+h1{
+    font-family: "Delius";
+    font-weight: 600;
+    font-style: normal;
+    color: #e88e8e;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+li{
+    font-size: large;
+    margin: 15px;
+    padding: 5px;
+}
+
+.delius-unicase-regular {
+    font-family: "Delius Unicase", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.montserrat{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
